@@ -1,0 +1,1 @@
+export const API_TYPICODE = 'https://jsonplaceholder.typicode.com';
